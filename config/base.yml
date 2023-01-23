@@ -217,8 +217,8 @@ Layout/FirstParameterIndentation:
 
 Layout/HashAlignment:
   Enabled: true
-  EnforcedHashRocketStyle: key
-  EnforcedColonStyle: key
+  EnforcedHashRocketStyle: table
+  EnforcedColonStyle: table
   EnforcedLastArgumentHashStyle: always_inspect
 
 Layout/HeredocArgumentClosingParenthesis:
